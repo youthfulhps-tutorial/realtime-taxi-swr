@@ -1,5 +1,13 @@
 .container {
-  padding: 0 2rem;
+  margin: 2rem;
+  padding: 24px;
+  width: max-content;
+  background-color: #14213d;
+  color: #e5e5e5;
+}
+
+.container span {
+  color: #fca311;
 }
 
 .main {
